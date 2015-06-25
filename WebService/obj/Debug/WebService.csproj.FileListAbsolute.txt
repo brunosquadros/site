@@ -1,0 +1,10 @@
+E:\pet-ideia\site\PetProject\WebService\bin\WebService.dll.config
+E:\pet-ideia\site\PetProject\WebService\bin\WebService.dll
+E:\pet-ideia\site\PetProject\WebService\bin\WebService.pdb
+E:\pet-ideia\site\PetProject\WebService\bin\Entity.dll
+E:\pet-ideia\site\PetProject\WebService\bin\Service.dll
+E:\pet-ideia\site\PetProject\WebService\bin\Entity.pdb
+E:\pet-ideia\site\PetProject\WebService\bin\Service.pdb
+E:\pet-ideia\site\PetProject\WebService\obj\Debug\WebService.csprojResolveAssemblyReference.cache
+E:\pet-ideia\site\PetProject\WebService\obj\Debug\WebService.dll
+E:\pet-ideia\site\PetProject\WebService\obj\Debug\WebService.pdb

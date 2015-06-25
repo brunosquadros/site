@@ -1,0 +1,4 @@
+E:\pet-ideia\site\PetProject\Entity\bin\Debug\Entity.dll
+E:\pet-ideia\site\PetProject\Entity\bin\Debug\Entity.pdb
+E:\pet-ideia\site\PetProject\Entity\obj\Debug\Entity.dll
+E:\pet-ideia\site\PetProject\Entity\obj\Debug\Entity.pdb
